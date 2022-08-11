@@ -1,3 +1,3 @@
 # mern fazt mysql
 
-backend mern con mysql
+backend mern con mysql en yb 
